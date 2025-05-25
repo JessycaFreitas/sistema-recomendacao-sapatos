@@ -1,6 +1,7 @@
 services:
   - type: web
-    name: sistema-recomendacao
+    name: sistema-recomendacao-sapatos
     env: python
     buildCommand: ""
-    startCommand: "python app.py"
+    startCommand: gunicorn wsgi:app
+    autoDeploy: true
