@@ -59,7 +59,7 @@ def recomendar(estilo_usuario):
 def index():
     return render_template('index.html')
 
-@app.route('/cadastrar', methods=['POST'])
+@app.route('/cadastrar', methods=['GET', 'POST'])
 def cadastrar():
     id = request.form['id']
     modelo = request.form['modelo']
