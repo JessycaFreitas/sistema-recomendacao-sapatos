@@ -1,32 +1,18 @@
 [
-  {
-    "id": 88434,
-    "modelo": "Tênis",
-    "estilo": "Casual "
-  },
-  {
-    "id": 88391,
-    "modelo": "Tênis furinho",
-    "estilo": "Casual "
-  },
-  {
-    "id": 88307,
-    "modelo": "TENIS DETALHE LATERAL METALIZADO",
-    "estilo": "Casual "
-  },
-  {
-    "id": 87786,
-    "modelo": "Tênis activitta",
-    "estilo": "Esportivo"
-  },
-  {
-    "id": 87237,
-    "modelo": "TENIS OLYMPIKUS PRIDE ",
-    "estilo": "Esportivo"
-  },
-  {
-    "id": 87289,
-    "modelo": "TENIS BOX ",
-    "estilo": "Esportivo"
-  }
-]
+    {
+      "id": 1,
+      "modelo": "Bota Preta",
+      "estilo": "Casual"
+    },
+    {
+      "id": 2,
+      "modelo": "Bota Marrom",
+      "estilo": "Casual"
+    },
+    {
+      "id": 3,
+      "modelo": "Sandália Rasteira",
+      "estilo": "Verão"
+    }
+  ]
+  
